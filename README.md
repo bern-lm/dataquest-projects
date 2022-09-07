@@ -4,7 +4,7 @@ Here are some of the projects I worked with while taking the Dataquest's certifi
 After completing the certification, I further developed some of them to make them more interesting.
 
 1. **Credit Modeling (Lending Club)**
-    * _Objective_: Build a machine learning model that can accurately predict if a borrower will pay off their loan on time or not
+    * _Objective_: Predict if a borrower will pay off their loan on time or not
 
 2. **Finding the Best Markets to Advertise In**
     * _Objective_: Find the best two markets (countries) to advertise our product in
